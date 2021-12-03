@@ -19,3 +19,11 @@
 | 【Multilanguage Cover】Touhou: Bad Apple (A Cappella Ver.) 〈Avlönskt〉 | [Click me!](https://www.youtube.com/channel/UCOxag8oVb70iDjCarWhuzbw) | [Click me!](https://www.youtube.com/watch?v=rdv_WzNokz4) |
 | Bad Apple!! \| Genshin Impact Version | [Click me!](https://www.youtube.com/channel/UCc_V9C65eJQ2joysH-jUGVQ) | [Click me!](https://www.youtube.com/watch?v=cXJOLkc3Dhs) |
 | Touhou Project- "Bad Apple!!" ENGLISH | [Click me!](https://www.youtube.com/channel/UCHmMKPmo4tAa3d8zNKERRoA) | [Click me!](https://www.youtube.com/watch?v=owFulRTR1Sc) |
+| Touhou 4-Bad Apple (8-bit Remix with NES video Playback) | [Click me!](https://www.youtube.com/channel/UCe5nKDcNNJKyjJht0tDwREA) | [Click me!](https://www.youtube.com/watch?v=ZMbAEjPPf7w) |
+| Bad Apple!! (Touhou) feat. Lunacy 【Intense Symphonic Metal Cover】 | [Click me!](https://www.youtube.com/channel/UChAHYPBvyaQIpjyTSdQhOMQ) | [Click me!](https://www.youtube.com/watch?v=wPcCDk3WeR0) |
+| Bad Apple - Atari 2600 | [Click me!](https://www.youtube.com/channel/UCNUxBiVyD4V7-lX7zCIMKCA) | [Click me!](https://www.youtube.com/watch?v=Ko9ZA50X71s) |
+| Bad Apple!! [Electro Swing Remix (ft. OR3O & adrisaurus)] (English/Japanese) | [Click me!](https://www.youtube.com/channel/UCqeHbI0rfexnHhhEgrg8Exg) | [Click me!](https://www.youtube.com/watch?v=j8wZXyR2SUM) |
+| Gabe the Dog - Bad Apple | [Click me!](https://www.youtube.com/channel/UCC-DWdyi9GeFNHtvh4HbqNg) | [Click me!](https://www.youtube.com/watch?v=c6-QSfwRDDM) |
+| BAD APPLE!! - EPIC ORCHESTRAL COVER (Japanese Ver. 日本版) | [Click me!](https://www.youtube.com/channel/UCmoIM2c1E_5dI7-ZDnFXJkQ) | [Click me!](https://www.youtube.com/watch?v=x7VkyIBK6rU) |
+| 【7 VOCALOID A cappella】BAD APPLE!! 【 カバー】 | [Click me!](https://www.youtube.com/channel/UC2orhaXZTLktBMLZ6kO9aDg) | [Click me!](https://www.youtube.com/watch?v=gLnPpnDTT60) |
+| ゆっくり達にBad Apple!!FULLを歌わせてみた(完成！） | [Click me!](https://www.youtube.com/channel/UCV-vYT8JYZsn4jSV0eS61Mw) | [Click me!](https://www.youtube.com/watch?v=sriImJahxmY) |
