@@ -1,7 +1,7 @@
 
 # Bad Compilation of Bad Apple
 
-A repo to list all Bad Apple variants in one place
+A repo to list all Bad Apple variants in one place. 
 
 Audio Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.json)
 
@@ -10,6 +10,7 @@ Video Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/b
 
 
 Related videos: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.json)
+
 ## Roadmap
 
 I want to make an api or an npm package that automatically can fetch you some of the collected data. Maybe if this gains some sort of traction!
@@ -19,6 +20,8 @@ I want to make an api or an npm package that automatically can fetch you some of
 Contributions are always welcome!
 
 If you want to add a new variant (and know what you are doing), just open a pull request.
+
+You can use the scraped results from the scraper folder to look without needing to do alot of extra manual work.
 
 Formats for adding:
 
