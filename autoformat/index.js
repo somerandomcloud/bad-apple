@@ -29,9 +29,13 @@ function videoFormatter(videotemplate) {
     try {
         let template = fs.readFileSync(videotemplate, 'utf8')
 
-        videoedits['video-edits'].forEach(entry => {
-            template += `\n| ${entry.name} | [Click me!](${entry.creator}) | ${entry['source-code']} | [Click me!](${entry.video}) |`
-        });
+      videoedits['video-edits'].forEach(entry => {
+          let coderepo = entry['source-code']
+
+          if(!coderepo || coderepo === null) coderepo = "The sourcecode to the project is not available!"
+
+          template += `\n| ${entry.name} | [Click me!](${entry.creator}) | ${coderepo} | [Click me!](${entry.video}) |`
+      });
 
         console.log(template)
 
