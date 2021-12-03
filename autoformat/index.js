@@ -18,7 +18,7 @@ function audioFormatter(audiotemplate) {
 
         console.log(template)
 
-        fs.writeFileSync(`${__dirname}/./output/badappleaudio.md`, template)
+        fs.writeFileSync(`${__dirname}/../badappleaudio.md`, template)
 
       } catch (err) {
         console.error(err)
@@ -35,7 +35,7 @@ function videoFormatter(videotemplate) {
 
         console.log(template)
 
-        fs.writeFileSync(`${__dirname}/./output/badapplevideo.md`, template)
+        fs.writeFileSync(`${__dirname}/../badapplevideo.md`, template)
 
       } catch (err) {
         console.error(err)
@@ -52,7 +52,7 @@ function relatedFormatter(relatedtemplate) {
 
         console.log(template)
 
-        fs.writeFileSync(`${__dirname}/./output/badapplerelated.md`, template)
+        fs.writeFileSync(`${__dirname}/../badapplerelated.md`, template)
 
       } catch (err) {
         console.error(err)
