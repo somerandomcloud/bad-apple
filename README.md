@@ -3,13 +3,13 @@
 
 A repo to list all Bad Apple variants in one place
 
-Audio Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.json) | [Autoformat MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/autoformat/output/badappleaudio.md)
+Audio Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badappleaudio.json)
 
 
-Video Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badapplevideo.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badapplevideo.json) | [Autoformat MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/autoformat/output/badapplevideo.md)
+Video Edits: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badapplevideo.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badapplevideo.json)
 
 
-Related videos: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.json) | [Autoformat MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/autoformat/output/badapplerelated.md)
+Related videos: [MarkDown](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.md) | [JSON](https://github.com/somerandomcloud/bad-apple/blob/main/badapplerelated.json)
 ## Roadmap
 
 I want to make an api or an npm package that automatically can fetch you some of the collected data. Maybe if this gains some sort of traction!
