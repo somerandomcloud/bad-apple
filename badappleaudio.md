@@ -14,8 +14,8 @@
 | 【Touhou】 -Bad Apple- (Orchestral Arrangement) Instrumental | [Click me!](https://www.youtube.com/channel/UClflzY3ZjKJBrEYdJhMBv4Q) | [Click me!](https://www.youtube.com/watch?v=TxTprtLZurY) |
 | 【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h | [Click me!](https://www.youtube.com/channel/UClflzY3ZjKJBrEYdJhMBv4Q) | [Click me!](https://www.youtube.com/watch?v=VBtTL_IsZ5k) |
 | Avlönskt's multi language Bad Apple, but with RichaadEB's metal cover instrumental | [Click me!](https://www.youtube.com/channel/UC6WTh3acLAUL2IgSXiAkSxA) | [Click me!](https://www.youtube.com/watch?v=5Cwzn1dEQEU) |
-| BAD APPLE!! || METAL COVER by RichaadEB ft. Cristina Vee | [Click me!](https://www.youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ) | [Click me!](https://www.youtube.com/watch?v=9Xz4NV0zsbY) |
+| BAD APPLE!! \\|\| METAL COVER by RichaadEB ft. Cristina Vee | [Click me!](https://www.youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ) | [Click me!](https://www.youtube.com/watch?v=9Xz4NV0zsbY) |
 | KIRA - Bad Apple!! (German Version) ft. Akarui Kouki [GERMAN VCV TEST COVER] | [Click me!](https://www.youtube.com/channel/UCDxS8VeAQhnHJc6B5jE3KHg) | [Click me!](https://www.youtube.com/watch?v=1pUXLuIBCKQ) |
 | 【Multilanguage Cover】Touhou: Bad Apple (A Cappella Ver.) 〈Avlönskt〉 | [Click me!](https://www.youtube.com/channel/UCOxag8oVb70iDjCarWhuzbw) | [Click me!](https://www.youtube.com/watch?v=rdv_WzNokz4) |
-| Bad Apple!! | Genshin Impact Version | [Click me!](https://www.youtube.com/channel/UCc_V9C65eJQ2joysH-jUGVQ) | [Click me!](https://www.youtube.com/watch?v=cXJOLkc3Dhs) |
+| Bad Apple!! \| Genshin Impact Version | [Click me!](https://www.youtube.com/channel/UCc_V9C65eJQ2joysH-jUGVQ) | [Click me!](https://www.youtube.com/watch?v=cXJOLkc3Dhs) |
 | Touhou Project- "Bad Apple!!" ENGLISH | [Click me!](https://www.youtube.com/channel/UCHmMKPmo4tAa3d8zNKERRoA) | [Click me!](https://www.youtube.com/watch?v=owFulRTR1Sc) |

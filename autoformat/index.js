@@ -13,7 +13,12 @@ function audioFormatter(audiotemplate) {
         let template = fs.readFileSync(audiotemplate, 'utf8')
 
         audioedits['audio-edits'].forEach(entry => {
-            template += `\n| ${entry.name} | [Click me!](${entry.creator}) | [Click me!](${entry.video}) |`
+          let name = entry.name
+
+          name = name.replace("|", "\\|")
+          name = name.replace("||", "\\|\\|")
+          
+          template += `\n| ${name} | [Click me!](${entry.creator}) | [Click me!](${entry.video}) |`
         });
 
         console.log(template)
@@ -34,7 +39,7 @@ function videoFormatter(videotemplate) {
 
           if(!coderepo || coderepo === null) coderepo = "The sourcecode to the project is not available!"
 
-          template += `\n| ${entry.name} | [Click me!](${entry.creator}) | ${coderepo} | [Click me!](${entry.video}) |`
+          template += `\n| ${entry.name.replace("|", "│")} | [Click me!](${entry.creator}) | ${coderepo} | [Click me!](${entry.video}) |`
       });
 
         console.log(template)
@@ -51,7 +56,7 @@ function relatedFormatter(relatedtemplate) {
         let template = fs.readFileSync(relatedtemplate, 'utf8')
 
         related['related'].forEach(entry => {
-            template += `\n| ${entry.name} | [Click me!](${entry.creator}) | [Click me!](${entry.video}) |`
+          template += `\n| ${entry.name.replace("|", "│")} | [Click me!](${entry.creator})| [Click me!](${entry.video}) |`
         });
 
         console.log(template)
