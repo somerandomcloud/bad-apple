@@ -5,7 +5,7 @@ A repo to list all Bad Apple variants in one place
 
 ## Roadmap
 
-I plan to make an api or an npm package that automatically can fetch you some of the collected data. Maybe if this gains some sort of traction!
+I want to make an api or an npm package that automatically can fetch you some of the collected data. Maybe if this gains some sort of traction!
 
 ## Contributing
 
