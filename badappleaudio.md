@@ -10,7 +10,7 @@
 | 【BadApple!!】傷林果 【ShouRinka】 | [Click me!](https://www.youtube.com/channel/UCVWMwLFzyyz1wyVVk9RWx7g) | [Click me!](https://www.youtube.com/watch?v=dx76YPgZviE) |
 | Bad Apple!! - Touhou Cover (feat. FamilyJules7x, MaximumHamburgers, and Mklachu) | [Click me!](https://www.youtube.com/channel/UC-69ubRH9FiX2f-8LVY6C5Q) | [Click me!](https://www.youtube.com/watch?v=lyjpeSsARjM) |
 | MV　“BadApple!!×傷林果 Remix” 佳館杏ノ助 ft. K’suke and 仮面ライアー217 | [Click me!](https://www.youtube.com/channel/UCRywXmsk94yRtN_LT6qsRow) | [Click me!](https://www.youtube.com/watch?v=tfOsEKtyXlo) |
-| 【Multilanguage Cover】Touhou: Bad Apple [Happy Eur. Day of Languages!] (Orchestral Ver.) 〈Avlönskt〉 | [Click me!](【Multilanguage Cover】Touhou: Bad Apple [Happy Eur. Day of Languages!] (Orchestral Ver.) 〈Avlönskt〉) | [Click me!](https://www.youtube.com/watch?v=HUPiIyz8xuU) |
+| 【Multilanguage Cover】Touhou: Bad Apple [Happy Eur. Day of Languages!] (Orchestral Ver.) 〈Avlönskt〉 | [Click me!](https://www.youtube.com/channel/UCOxag8oVb70iDjCarWhuzbw) | [Click me!](https://www.youtube.com/watch?v=HUPiIyz8xuU) |
 | 【Touhou】 -Bad Apple- (Orchestral Arrangement) Instrumental | [Click me!](https://www.youtube.com/channel/UClflzY3ZjKJBrEYdJhMBv4Q) | [Click me!](https://www.youtube.com/watch?v=TxTprtLZurY) |
 | 【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h | [Click me!](https://www.youtube.com/channel/UClflzY3ZjKJBrEYdJhMBv4Q) | [Click me!](https://www.youtube.com/watch?v=VBtTL_IsZ5k) |
 | Avlönskt's multi language Bad Apple, but with RichaadEB's metal cover instrumental | [Click me!](https://www.youtube.com/channel/UC6WTh3acLAUL2IgSXiAkSxA) | [Click me!](https://www.youtube.com/watch?v=5Cwzn1dEQEU) |
