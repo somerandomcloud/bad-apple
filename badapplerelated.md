@@ -8,4 +8,3 @@ Videos that arent Bad Apple edits, but are on the topic of Bad Apple
 | BAD APPLE!! - Piano Tutorial | [Click me!](https://youtube.com/channel/UCzTR9iSH-TFC4-ocDS_ll4A)| [Click me!](https://youtube.com/watch?v=tW3oXdl1E64) |
 | MHA Reacts to Deku AU’s -Bad Apple- {My AU} | [Click me!](https://youtube.com/channel/UCS4b87h_BGQQO_ZuH7ELXLA)| [Click me!](https://youtube.com/watch?v=C2kv1EjJrec) |
 | Bad Apple Explained: History and Analysis | [Click me!](https://youtube.com/channel/UCLLxy5P3iu6G3rxhQ9Icpxg)| [Click me!](https://youtube.com/watch?v=6QY4ekac1_Q) |
-| Bad Apple Explained: History and Analysis | [Click me!](https://www.youtube.com/channel/UCLLxy5P3iu6G3rxhQ9Icpxg)| [Click me!](https://www.youtube.com/watch?v=6QY4ekac1_Q) |
