@@ -29,3 +29,13 @@ These are videos that are mainly focused on changing the audio aspect of Bad App
 | BAD APPLE!! - EPIC ORCHESTRAL COVER (Japanese Ver. 日本版) | [Click me!](https://www.youtube.com/channel/UCmoIM2c1E_5dI7-ZDnFXJkQ) | [Click me!](https://www.youtube.com/watch?v=x7VkyIBK6rU) |
 | 【7 VOCALOID A cappella】BAD APPLE!! 【 カバー】 | [Click me!](https://www.youtube.com/channel/UC2orhaXZTLktBMLZ6kO9aDg) | [Click me!](https://www.youtube.com/watch?v=gLnPpnDTT60) |
 | ゆっくり達にBad Apple!!FULLを歌わせてみた(完成！） | [Click me!](https://www.youtube.com/channel/UCV-vYT8JYZsn4jSV0eS61Mw) | [Click me!](https://www.youtube.com/watch?v=sriImJahxmY) |
+| 【東方】Bad Apple!! ＰＶ【影絵】 | [Click me!](https://youtube.com/channel/UCEJJbhF5Hod0zsupy-26n_g) | [Click me!](https://youtube.com/watch?v=FtutLA63Cp8) |
+| Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English] | [Click me!](https://youtube.com/channel/UCPZeEvYtEm9LXWQbu049kDw) | [Click me!](https://youtube.com/watch?v=9lNZ_Rnr7Jc) |
+| Bad Apple!! (English Remaster) | [Click me!](https://youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ) | [Click me!](https://youtube.com/watch?v=jxEigw8RQ5k) |
+| 【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 | [Click me!](https://youtube.com/channel/UCmGMR_bG6xx9AAiPbxTr_RQ) | [Click me!](https://youtube.com/watch?v=SfnbdZR2KOo) |
+| "Bad Apple" (Touhou) English Cover by Lizz Robinett | [Click me!](https://youtube.com/channel/UCq36dja_0U4SgB3wYVtr_Zw) | [Click me!](https://youtube.com/watch?v=J61u3wFzl68) |
+| Bad Apple - Nomico (Ivanoshy619) | [Click me!](https://youtube.com/channel/UCjQ1gYfi7VrRpGQzEOpRaCw) | [Click me!](https://youtube.com/watch?v=C7vANv-aLmk) |
+| Bad Apple MV [Electro Swing Remix (ft. Adrisaurus & The Musical Ghost)] | [Click me!](https://youtube.com/channel/UCTAyRNwgMv_vvM8Z9UvKKEg) | [Click me!](https://youtube.com/watch?v=EYXR5DT2IbY) |
+| 【東方Vocal】 Bad Apple!! feat.nomico (Camellia’s “Bad Psy!!” Remix) 「Alstroemeria Records」【Subtitle】 | [Click me!](https://youtube.com/channel/UClGm4dxaLMmb2MkNueaoCaw) | [Click me!](https://youtube.com/watch?v=gcfqTk60fkE) |
+| 『Rockleetist』 Bad Apple!! - English 『Ashe』 | [Click me!](https://youtube.com/channel/UCpxuU8Cb3U9A_lRQ_yrjdGw) | [Click me!](https://youtube.com/watch?v=kPLxGctIQJE) |
+| damn daniel bad apple but he actually sings it | [Click me!](https://youtube.com/channel/UCc0e9OJeXuTj4bxs88ZGZsQ) | [Click me!](https://youtube.com/watch?v=3KBWT-VevWQ) |
