@@ -27,8 +27,6 @@ const run = async () => {
     fs.writeFileSync(`${__dirname}/topscrapedresults.json`, JSON.stringify(possibleentry, null, "\t"))
 };
 
-// run();
-
 const scraped = require('./topscrapedresults.json')
 
 function formatter() {
