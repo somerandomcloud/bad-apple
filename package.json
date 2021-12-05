@@ -1,0 +1,20 @@
+{
+  "name": "bad-apple",
+  "version": "1.0.0",
+  "description": "A repo to list all Bad Apple variants in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "node ./autoformat/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somerandomcloud/bad-apple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somerandomcloud/bad-apple/issues"
+  },
+  "homepage": "https://github.com/somerandomcloud/bad-apple#readme"
+}

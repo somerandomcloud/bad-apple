@@ -8,7 +8,7 @@ const relatedtemplate = `${__dirname}/./templates/related.md`
 
 const fs = require('fs')
 
-function audioFormatter(audiotemplate) {
+function audioFormatter() {
     try {
         let template = fs.readFileSync(audiotemplate, 'utf8')
 
@@ -30,7 +30,7 @@ function audioFormatter(audiotemplate) {
       }
 }
 
-function videoFormatter(videotemplate) {
+function videoFormatter() {
     try {
         let template = fs.readFileSync(videotemplate, 'utf8')
 
@@ -51,7 +51,7 @@ function videoFormatter(videotemplate) {
       }
 }
 
-function relatedFormatter(relatedtemplate) {
+function relatedFormatter() {
     try {
         let template = fs.readFileSync(relatedtemplate, 'utf8')
 
@@ -68,6 +68,12 @@ function relatedFormatter(relatedtemplate) {
       }
 }
 
-audioFormatter(audiotemplate)
-videoFormatter(videotemplate)
-relatedFormatter(relatedtemplate)
+audioFormatter()
+videoFormatter()
+relatedFormatter()
+
+module.exports = {
+  audioFormatter,
+  videoFormatter,
+  relatedFormatter
+}

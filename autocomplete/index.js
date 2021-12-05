@@ -3,13 +3,10 @@ const fs = require('fs');
 
 const youtube = new Client();
 
-if (process.argv.length !== 3) {
-    console.log('Usage : node . <video id>')
-    process.exit(1)
-}
+const autocomplete = async (videoied) => {
+    const videoid = videoied
 
-const run = async () => {
-    const videoid = process.argv[2]
+    if(!videoid) return console.log('No video id supplied')
 
     const video = await youtube.getVideo(videoid);
     
@@ -41,4 +38,6 @@ const run = async () => {
     fs.writeFileSync(`${__dirname}/../badappleaudio.json`, JSON.stringify(parsedjson, null, "\t"))
 }
 
-run()
+module.exports = {
+    autocomplete,
+}
